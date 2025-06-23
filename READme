@@ -1,0 +1,54 @@
+DATA ANALYSIS ON STUDENT MENTAL HEALTH
+
+PROJECT DESCRIPTION:
+
+1.Age
+
+2.study satisfaction
+
+3.academic workload
+
+4.academic pressure
+
+5.financial concern
+
+6.social relationship
+
+7.depression
+
+8. anxiety
+
+9.isolation
+
+10.future insecurity
+
+FEATURES;
+
+ data analysis
+ 
+ predictive modeling
+ 
+ awareness programs
+
+METHODOLOGY
+
+data visualisation for gender distribution
+
+correlation matrix
+
+DecisionTreeClassifier
+
+LogisticRegression
+
+RandomForestClassifier
+
+ KNeighborsClassifier
+
+ Chi-square tests 
+
+ Summary:
+
+Combining these approaches creates a supportive campus environment that raises awareness, reduces stigma, provides academic flexibility, and fosters community support ultimately promoting student mental health and academic success.
+
+Universities should integrate data-driven insights to tailor these programs effectively and continuously evaluate their impact.
+
